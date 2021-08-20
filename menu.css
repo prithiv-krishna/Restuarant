@@ -1,0 +1,17 @@
+*{
+    justify-content:none;
+}
+
+body{
+    background-color: rgb(219, 217, 64);
+}
+
+#button-1{
+    text-align: center;
+    background-color: brown;
+}
+
+#link{
+    text-decoration: none;
+    color: crimson;
+}
